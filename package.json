@@ -1,0 +1,45 @@
+{
+    "name": "frozen-embers",
+    "displayName": "Frozen Embers",
+    "description": "A Miniml yet colorful looking colorschem for your dev life!",
+    "version": "0.0.1",
+    "publisher": "TheAmalLalgi",
+    "icon": "assets/images/logo.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheAmalLalgi/frozen-embers.git"
+    },
+    "keywords": [
+        "Monokai",
+        "Dark",
+        "Monokai Pro",
+        "Dark Theme",
+        "TheAmalLalgi",
+        "Amal Lalgi",
+        "Dracula",
+        "Themes",
+        "theme",
+        "Atom",
+        "Sublime Text",
+        "Acrylic",
+        "Cool",
+        "Best Theme",
+        "Github",
+        "One Dark"
+    ],
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Frozen Embers",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Frozen Embers-color-theme.json"
+            }
+        ]
+    }
+}

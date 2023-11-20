@@ -55,6 +55,8 @@ NOTE: *You can find many of my other configuration files if you go to my website
 
 - #### [Instagram](https://www.instagram.com/TheAmalLalgi)
 
+- #### [Instagram](https://www.twitter.com/AmalLalgi)
+
 - #### [Github](https://github.com/TheAmalLalgi)
 
 - #### [LinkedIn](https://www.linkedin.com/in/amal-lalgi-8b193521a/)
@@ -65,7 +67,7 @@ NOTE: *You can find many of my other configuration files if you go to my website
 
 #### You can checkout my website for more projects like this...
 
-#### [TheAmalLalgi.github.io](https://TheAmalLalgi.github.io)
+#### [TheAmalLalgi.pages.dev](https://TheAmalLalgi.pages.dev)
 
 ---
 
